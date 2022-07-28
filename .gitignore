@@ -3,3 +3,5 @@ ExcelFiles/
 testing.py
 ipynbIgnore/
 Output/
+ExportSupplierbd.ipynb
+ExportProductsdb.ipynb
