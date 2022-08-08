@@ -5,3 +5,4 @@ ipynbIgnore/
 Output/
 ExportSupplierbd.ipynb
 ExportProductsdb.ipynb
+ExportHES.ipynb
