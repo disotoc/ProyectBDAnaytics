@@ -6,3 +6,7 @@ Output/
 ExportSupplierbd.ipynb
 ExportProductsdb.ipynb
 ExportHES.ipynb
+Output/database.py
+testing.ipynb
+testing.py
+.idea/
